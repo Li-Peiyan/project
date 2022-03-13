@@ -12,4 +12,4 @@
 
 本周编写的其他代码 -> [test](https://github.com/Li-Peiyan/project/tree/main/week3/test)
 
-LetCode题写了不少，一题一题上传到GitHub很不现实，这次就不传了。
+LetCode -> [LeetCode](https://github.com/Li-Peiyan/LeetCode)
