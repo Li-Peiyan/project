@@ -14,5 +14,5 @@
 
 目前项目已编辑的代码 -> [gmall0218](https://github.com/Li-Peiyan/gmall0218)
 
-LetCode -> [LeetCode](https://github.com/Li-Peiyan/LeetCode)
+LeetCode -> [LeetCode](https://github.com/Li-Peiyan/LeetCode)
 
