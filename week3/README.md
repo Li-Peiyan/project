@@ -14,4 +14,4 @@
 
 本周编写的其他代码 -> [test](https://github.com/Li-Peiyan/project/tree/main/week3/test)
 
-LetCode -> [LeetCode](https://github.com/Li-Peiyan/LeetCode)
+LeetCode -> [LeetCode](https://github.com/Li-Peiyan/LeetCode)
